@@ -365,6 +365,15 @@ server/src/routes/auth.routes.js
 
 The actual API prefix depends on the configuration in `server/src/app.js`.
 
+
+### 📖 Postman API Documentation
+
+For interactive API testing and request schemas, view the published Postman Collection:
+
+👉 [Postman API Documentation](https://documenter.getpostman.com/view/38250883/2sBYHQ233c)
+
+---
+
 ### Filtering Interviews
 
 The assignment requires filtering by candidate name, status, and position.
@@ -456,6 +465,7 @@ Do not commit production secrets to the repository.
 - Complete source code in a GitHub repository.
 - README.md containing project documentation and setup instructions.
 - Deployed application links, if deployment is completed.
+
 
 ## 👨‍💻 Author
 

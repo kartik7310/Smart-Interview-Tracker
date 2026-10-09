@@ -1,7 +1,7 @@
 export const healthCheck = (req, res) => {
   res.status(200).json({
     success: true,
-    message: "Expense Tracker API is running",
+    message: "Smart Interview Tracker backend is running",
     timestamp: new Date().toISOString()
   });
 };
